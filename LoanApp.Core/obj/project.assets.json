@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\homam\\.nuget\\packages\\": {}
+    "C:\\Users\\PcMax\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\homam\\Desktop\\LoanAppSolution\\LoanApp.Core\\LoanApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\PcMax\\Desktop\\loanApp\\LoanAppSolution\\LoanApp.Core\\LoanApp.Core.csproj",
       "projectName": "LoanApp.Core",
-      "projectPath": "C:\\Users\\homam\\Desktop\\LoanAppSolution\\LoanApp.Core\\LoanApp.Core.csproj",
-      "packagesPath": "C:\\Users\\homam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\homam\\Desktop\\LoanAppSolution\\LoanApp.Core\\obj\\",
+      "projectPath": "C:\\Users\\PcMax\\Desktop\\loanApp\\LoanAppSolution\\LoanApp.Core\\LoanApp.Core.csproj",
+      "packagesPath": "C:\\Users\\PcMax\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PcMax\\Desktop\\loanApp\\LoanAppSolution\\LoanApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\homam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\PcMax\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
